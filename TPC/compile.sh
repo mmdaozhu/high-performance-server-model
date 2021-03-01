@@ -1,0 +1,1 @@
+g++ -std=c++20 HTTPServer.cpp TCPServer.cpp -o main -lpthread
